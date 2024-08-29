@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ajay MAlge
+- 👋 Hi, I’m @Ajay Malge
 - 👀 I’m interested in Python Developer
 - 🌱 I’m currently learning Python Full Stack Developer
 - 💞️ I’m looking to collaborate with developers

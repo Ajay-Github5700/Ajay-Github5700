@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajay Malge
-- 👀 I’m interested in Python Developer
-- 🌱 I’m currently learning Python Full Stack Developer
+- 👀 Interested in Mean Stack | Python FullStack
+- 🌱 Currently Working as Angular Frontend Developer Intern
 - 💞️ I’m looking to collaborate with developers
 - 📫 you can reach me via email ajaymalge3@gmail.com
 
